@@ -10,4 +10,4 @@ Players can customize their army within certain budget limit and play against AI
 
 There are three unit types, each with their own set of unique attributes.
 
-Recordings of sprint reports, where I explain what i've learned and implemented in each sprint, along with a quick demo of a use case are available at [Screencast-O-Matic](https://screencast-o-matic.com/channels/cFeUntzQO).
+Recordings of sprint reports where I explain what I learned and implemented, as well as any issues I ran into in each sprint, along with a quick demo of a use case are available at [Screencast-O-Matic](https://screencast-o-matic.com/channels/cFeUntzQO).
